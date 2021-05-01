@@ -1,22 +1,22 @@
 self.__precacheManifest = [
   {
-    "revision": "5356d12f6dc396d9a3b3",
-    "url": "/42-red-tetris/static/js/app.df451fbd.chunk.js"
+    "revision": "855711ca70181067580c",
+    "url": "/42-red-tetris/static/js/app.57f9fda9.chunk.js"
   },
   {
     "revision": "4e4459257469707c1f03",
     "url": "/42-red-tetris/static/js/runtime~app.ccf769df.js"
   },
   {
-    "revision": "032b6bcdd02541a179cc",
-    "url": "/42-red-tetris/static/js/2.2066cf10.chunk.js"
+    "revision": "8fd3169b1c454e417844",
+    "url": "/42-red-tetris/static/js/2.5887f057.chunk.js"
   },
   {
-    "revision": "6daf304356cc010c1d23585c44041143",
-    "url": "/42-red-tetris/static/media/sprite.81de6409.png"
+    "revision": "dae593df848e39e5c3e2131e57d71acd",
+    "url": "/42-red-tetris/index.css"
   },
   {
-    "revision": "7f3776141097e9c61df682854eb96387",
+    "revision": "609605803efce842cba4ab1c99b325bb",
     "url": "/42-red-tetris/index.html"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/42-red-tetris/register-service-worker.js"
   },
   {
-    "revision": "0737336ee78ad0a2cc3e02b6eeb6fcb9",
-    "url": "/42-red-tetris/static/js/2.2066cf10.chunk.js.LICENSE.txt"
+    "revision": "a3f61573e6600e307a93241f2cc7b709",
+    "url": "/42-red-tetris/static/js/2.5887f057.chunk.js.LICENSE.txt"
   },
   {
     "revision": "d324ddc823eca6c86688f62576c81e76",
