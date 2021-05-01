@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.9ee99a307dd425af61e55c2f6c877934.js"
+  "/42-red-tetris/precache-manifest.c5762e4a09a4d5380bc039256c6044dd.js"
 );
 
 workbox.skipWaiting();
@@ -29,7 +29,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("index.html", {
+workbox.routing.registerNavigationRoute("/42-red-tetris/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
