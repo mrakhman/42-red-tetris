@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/42-red-tetris/precache-manifest.31368036214b852ffe86496639c2003f.js"
+  "/42-red-tetris/precache-manifest.e8c081ba2a5b3d5f17e5f8620b291518.js"
 );
 
 workbox.skipWaiting();
