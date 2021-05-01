@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "ab11ed5c8d95c7e8dfbe",
-    "url": "/42-red-tetris/static/js/app.920744af.chunk.js"
+    "revision": "6a7ebf81d8fd051db922",
+    "url": "/42-red-tetris/static/js/app.db3d0f74.chunk.js"
   },
   {
     "revision": "4e4459257469707c1f03",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/42-red-tetris/static/media/sprite.81de6409.png"
   },
   {
-    "revision": "9160faa904812ad3a103ebdf827a7b03",
+    "revision": "ad512a065a9b749304c3c9dbad9949cc",
     "url": "/42-red-tetris/index.html"
   },
   {
