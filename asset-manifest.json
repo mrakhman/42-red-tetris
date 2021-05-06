@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/42-red-tetris/static/js/app.cbb84337.chunk.js",
-    "app.js.map": "/42-red-tetris/static/js/app.cbb84337.chunk.js.map",
+    "app.js": "/42-red-tetris/static/js/app.782a0c7e.chunk.js",
+    "app.js.map": "/42-red-tetris/static/js/app.782a0c7e.chunk.js.map",
     "runtime~app.js": "/42-red-tetris/static/js/runtime~app.ccf769df.js",
     "runtime~app.js.map": "/42-red-tetris/static/js/runtime~app.ccf769df.js.map",
     "static/js/2.466a77eb.chunk.js": "/42-red-tetris/static/js/2.466a77eb.chunk.js",
@@ -19,6 +19,6 @@
   "entrypoints": [
     "static/js/runtime~app.ccf769df.js",
     "static/js/2.466a77eb.chunk.js",
-    "static/js/app.cbb84337.chunk.js"
+    "static/js/app.782a0c7e.chunk.js"
   ]
 }
