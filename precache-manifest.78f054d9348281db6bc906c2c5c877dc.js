@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/42-red-tetris/index.css"
   },
   {
-    "revision": "3903dc1e4235164e1e5722f81ec6e61e",
+    "revision": "5e998ef11a0de6addf47df3c269a8f75",
     "url": "/42-red-tetris/index.html"
   },
   {
