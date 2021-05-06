@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/42-red-tetris/static/js/app.cd5d9888.chunk.js",
-    "app.js.map": "/42-red-tetris/static/js/app.cd5d9888.chunk.js.map",
+    "app.js": "/42-red-tetris/static/js/app.e640b684.chunk.js",
+    "app.js.map": "/42-red-tetris/static/js/app.e640b684.chunk.js.map",
     "runtime~app.js": "/42-red-tetris/static/js/runtime~app.ccf769df.js",
     "runtime~app.js.map": "/42-red-tetris/static/js/runtime~app.ccf769df.js.map",
-    "static/js/2.c08a1309.chunk.js": "/42-red-tetris/static/js/2.c08a1309.chunk.js",
-    "static/js/2.c08a1309.chunk.js.map": "/42-red-tetris/static/js/2.c08a1309.chunk.js.map",
+    "static/js/2.8afe2d4d.chunk.js": "/42-red-tetris/static/js/2.8afe2d4d.chunk.js",
+    "static/js/2.8afe2d4d.chunk.js.map": "/42-red-tetris/static/js/2.8afe2d4d.chunk.js.map",
     "favicon-16.png": "/42-red-tetris/favicon-16.png",
     "favicon-32.png": "/42-red-tetris/favicon-32.png",
     "favicon.ico": "/42-red-tetris/favicon.ico",
@@ -14,11 +14,11 @@
     "index.html": "/42-red-tetris/index.html",
     "manifest.json": "/42-red-tetris/manifest.json",
     "serve.json": "/42-red-tetris/serve.json",
-    "static/js/2.c08a1309.chunk.js.LICENSE.txt": "/42-red-tetris/static/js/2.c08a1309.chunk.js.LICENSE.txt"
+    "static/js/2.8afe2d4d.chunk.js.LICENSE.txt": "/42-red-tetris/static/js/2.8afe2d4d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime~app.ccf769df.js",
-    "static/js/2.c08a1309.chunk.js",
-    "static/js/app.cd5d9888.chunk.js"
+    "static/js/2.8afe2d4d.chunk.js",
+    "static/js/app.e640b684.chunk.js"
   ]
 }
